@@ -27,7 +27,7 @@ The Flask CRUD App is a web application built with Flask, a Python web framework
 - **Flask Framework:** Gratitude to the Flask developers and community for creating a robust web framework.
 
 - **SQLAlchemy:** Special thanks to the SQLAlchemy team for providing a powerful and flexible ORM.
-- 
+  
 ## Contact
 Email : mgmiteshgupta134@gmail.com
 

@@ -45,6 +45,7 @@ if __name__ == "__main__":
                 return redirect('/')
             except:
                 return 'There was an issue adding your thing and / or its location'
+        
         # Handle GET requests to render the main page
         else:
             tasks = Todo.query.order_by(Todo.date_created).all()

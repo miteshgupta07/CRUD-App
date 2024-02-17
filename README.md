@@ -1,4 +1,3 @@
-
 # CRUD App
 
 The Flask CRUD App is a web application built with Flask, a Python web framework. This project demonstrates the basic CRUD operations (Create, Read, Update, Delete) on a database, providing a foundation for building more complex web applications.
